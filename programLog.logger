@@ -1,0 +1,9 @@
+2021-06-30 00:55:46,878 Program timer started.
+2021-06-30 00:55:46,878 List initialized.
+2021-06-30 00:55:46,878 List populated with 10000 random values.
+2021-06-30 00:55:46,890 Sorting function called, list is passed as an argument and result is stored in another list.
+2021-06-30 00:55:46,890 Selection sort started.
+2021-06-30 00:55:50,032 List is converted to set to remove duplicate values.
+2021-06-30 00:55:50,033 Set is converted back to list for further use in program.
+2021-06-30 00:55:50,033 Returns a sorted list with unique values.
+2021-06-30 00:55:50,033 Input taken from user that is to be searched in list.
